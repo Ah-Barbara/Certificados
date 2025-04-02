@@ -1,9 +1,9 @@
-<div style="display: inline_block"><br>
- <h1>Certificados Java</h1>
-</div>
-
-[Java_5.pdf](https://github.com/user-attachments/files/19560775/Java_5.pdf)<br>
-[Java_4.pdf](https://github.com/user-attachments/files/19560774/Java_4.pdf)<br>
-[Java_3.pdf](https://github.com/user-attachments/files/19560773/Java_3.pdf)<br>
-[Java_2.pdf](https://github.com/user-attachments/files/19560772/Java_2.pdf)<br>
-[Java_1.pdf](https://github.com/user-attachments/files/19560771/Java_1.pdf)
+![java_1](https://github.com/user-attachments/assets/ec4865d0-4247-4afa-b04c-2441e542166e)
+<br>
+![Java_2_page-0001](https://github.com/user-attachments/assets/7bb87cc5-73ac-4be7-ac55-e61738f839ae)
+<br>
+![Java_3_page-0001](https://github.com/user-attachments/assets/7f7ab01b-557d-4f12-8f1a-8722212d3819)
+<br>
+![Java_4_page-0001](https://github.com/user-attachments/assets/b8b4d773-f164-471a-97e9-4813cfffe1df)
+<br>
+![Java_5_page-0001](https://github.com/user-attachments/assets/0f7be6a5-9d31-4c3b-abdd-48a86f1037dd)
